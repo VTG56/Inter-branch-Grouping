@@ -1,8 +1,3 @@
-RUN THESE COMMANDS
-pip install pandas openpyxl
-python group_students.py --file "fileadresspath.xlsx" --classrooms "AIML-CR001,AIML-CR002,BT-217,BT-218,CH-104,CH-105,CE-204,CE-205,CE-217,CE-312,CE-317,CE-319"
-
-
 Student Grouping Tool - Complete Setup & Usage Guide
 🚀 Quick Setup (Copy-Paste Commands)
 Step 1: Install Required Packages
